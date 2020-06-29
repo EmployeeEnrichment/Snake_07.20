@@ -129,7 +129,7 @@ class Game extends atom.Game
       @noshow = false 
 
   showIntro: ->
-    atom.context.fillStyle = "#fff"
+    atom.context.fillStyle = "#000000"
     atom.context.font = "30px sans-serif"
     atom.context.textAlign = "center"
     atom.context.textAlign = "left"
